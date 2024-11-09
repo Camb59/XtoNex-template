@@ -1,0 +1,9 @@
+template:
+  name: Notion API Project Template
+  description: 堅牢なNotion API連携のためのプロジェクトテンプレート
+  languages:
+    - Python
+  tags:
+    - notion-api
+    - integration
+    - template

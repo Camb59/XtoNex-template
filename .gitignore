@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 venv/
 *.pyc
 __pycache__/
@@ -7,3 +8,27 @@ build/
 dist/
 .vscode/
 .idea/
+=======
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.env
+*.log
+
+# Node.js
+node_modules/
+build/
+dist/
+.npm
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+>>>>>>> 7796dbf8404eb3b134d0abc0907db299f0488352
