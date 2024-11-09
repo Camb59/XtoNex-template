@@ -1,6 +1,22 @@
+# Python
 __pycache__/
 *.py[cod]
 *.class
+venv/
 .env
-logs/
 *.log
+
+# Node.js
+node_modules/
+build/
+dist/
+.npm
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
